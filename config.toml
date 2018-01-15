@@ -25,7 +25,7 @@ appID = ""
 pageID = ""
 
 [params.opengraph.twitter]
-page = "cloudgeario" # Twitter Page username. If not set, params.social.twitter will be used.
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
 
 [params.social]
 
