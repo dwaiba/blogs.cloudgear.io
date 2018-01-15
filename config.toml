@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://blogs.cloudgear.io"
 languageCode = "en"
 title = "cloudgear.io | Blogs"
 theme = "kiss"
