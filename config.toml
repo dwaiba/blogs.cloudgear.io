@@ -3,7 +3,7 @@ languageCode = "en"
 title = "cloudgear.io | Blogs"
 theme = "kiss"
 copyright = "&copy; <a href=\"http://cloudgear.io\">cloudgear.io</a> 2018"
-disqusShortname = "shortname"
+#disqusShortname = "shortname"
 googleAnalytics = ""
 # Number of posts per page
 Paginate = 5
