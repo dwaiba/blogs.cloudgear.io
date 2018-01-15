@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.example.com"
 languageCode = "en"
 title = "cloudgear.io | Blogs"
 theme = "kiss"
@@ -15,9 +15,9 @@ customCSS = ["css/custom.css"]
 
 [params.info]
 adsense = "" # Adsense ID (ID only, without ca-pub-)
-enableSocial = true # Adds OpenGraph and Twitter cards
-homeTitle = "cloudgear.io Blogs" # Title for home page
-poweredby = false # Adds powered by Hugo and Kiss below Copyright section
+enableSocial = false # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = true # Adds powered by Hugo and Kiss below Copyright section
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -25,15 +25,15 @@ appID = ""
 pageID = ""
 
 [params.opengraph.twitter]
-page = "cloudgeario" # Twitter Page username. If not set, params.social.twitter will be used.
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
 
 [params.social]
 
-twitter = "cloudgeario"
-github = "cloudgear-io"
-email = "poke@cloudgear.io"
-linkedin = ""
-facebook = ""
+twitter = "ribicemir"
+github = "ribice"
+email = "ribice@gmail.com"
+linkedin = "ribice"
+facebook = "ribice"
 instagram = ""
 codepen = ""
 
