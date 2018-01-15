@@ -10,7 +10,7 @@ cloudgear.io provides automated HPC and GPU Compute clusters for your algorithms
 It makes use of a variety of open source projects including:
 
 * [docker](https://github.com/docker/docker)
-* [docker-compose](https://github.com/spf13/docker/docker-compose)
+* [docker-compose](https://github.com/docker/compose)
 * [Cloud provider automation](https://github.com/cloudgear-io/azure-bigcompute)
 * [nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
 
