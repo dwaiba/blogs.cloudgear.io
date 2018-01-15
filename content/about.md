@@ -22,6 +22,6 @@ Have questions or suggestions? Feel free to [open an issue on GitHub](https://gi
 Thanks for reading!
 
 ### nvidia-docker
-nvidia-docker can be leveraged for usage of dockerized CUDA Toolkit Usage as per the test and picture below. This opens up possibilities of using “py” and “gpu” tagged images of cntk, tensorflow, theano and more available as nightly builds from docker hub with jupyter notebooks. Latest gitlab.com/nvidia cudnn RCs can be used for testing.
+nvidia-docker are leveraged for usage of dockerized CUDA Toolkit Usage . This opens up possibilities of using “py” and “gpu” tagged images of cntk, tensorflow, theano and more available as nightly builds from docker hub with jupyter notebooks. Latest gitlab.com/nvidia cudnn RCs can be used for testing.
 
 
