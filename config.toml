@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://hungry-shirley-e38492.netlify.com/"
 languageCode = "en"
 title = "cloudgear.io | Blogs"
 theme = "kiss"
