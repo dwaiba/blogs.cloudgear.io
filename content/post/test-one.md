@@ -17,14 +17,14 @@ draft: false
 
 #### The Oracle Service Cloud Version would help
 
-#### Availability of cData's [OData BizTalk Adapter])https://www.cdata.com/drivers/odata/download/biztalk/)
+#### Availability of cData's [OData BizTalk Adapter](https://www.cdata.com/drivers/odata/download/biztalk/)
 
 ###  Setup of Biztalk Topology if not done already: 5 Days excluding delays in Server Provisioning (on prem or cloud) and testing of the same.
 
 ### For Successfactors API :
 
 #### Notes and Connectivity Options:
-Availability of cData's cData's [OData BizTalk Adapter])https://www.cdata.com/drivers/odata/download/biztalk/) eases using the robust OData API for the workflow integrations.
+Availability of cData's cData's [OData BizTalk Adapter](https://www.cdata.com/drivers/odata/download/biztalk/) eases using the robust OData API for the workflow integrations.
 
 The new OData API: A newer option provided by SuccessFactors to integrate with the external systems . OData is built on HTTP at its core and the OData API is based on REST architecture.
 
