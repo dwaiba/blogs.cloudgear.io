@@ -4,25 +4,27 @@ date: 2018-01-16T15:22:57+01:00
 draft: false
 ---
 
-# Queries:
-## The Oracle E-Business Suite (EBS) for the Oracle Financial Services Release would help - Latest is 12.1
+### Queries:
+#### The Oracle E-Business Suite (EBS) for the Oracle Financial Services Release would help - Latest is 12.1
 
-## The Biztalk Server version would assist - Latest is BTS2016
+#### The Biztalk Server version would assist - Latest is BTS2016
 
-## SAP Modules other than HR (Sf) that needs to be integrated especially IDOC Integrations besides SAP MM and SAP SD in INT 16a and INT 20a.
+#### SAP Modules other than HR (Sf) that needs to be integrated especially IDOC Integrations besides SAP MM and SAP SD in INT 16a and INT 20a.
 
-## What is the Innserve System that is in INT 26.
+#### What is the Innserve System that is in INT 26.
 
-## What are the 3rd Party Systems in INT 14 and INT 15.
+#### What are the 3rd Party Systems in INT 14 and INT 15.
 
-## The Oracle Service Cloud Version would help
+#### The Oracle Service Cloud Version would help
 
-##  Setup of Biztalk Topology if not done already: 5 Days excluding delays in Server Provisioning (on prem or cloud) and testing of the same.
+#### Availability of cData's (OData BizTalk Adapter)[https://www.cdata.com/drivers/odata/download/biztalk/]
 
-## For Successfactors API :
+###  Setup of Biztalk Topology if not done already: 5 Days excluding delays in Server Provisioning (on prem or cloud) and testing of the same.
 
-### Notes and Connectivity Options:
-Availability of cData's OData BizTalk Adapter [https://www.cdata.com/drivers/odata/download/biztalk/] eases using the robust OData API for the workflow integrations.
+### For Successfactors API :
+
+#### Notes and Connectivity Options:
+Availability of cData's (OData BizTalk Adapter)[https://www.cdata.com/drivers/odata/download/biztalk/] eases using the robust OData API for the workflow integrations.
 
 The new OData API: A newer option provided by SuccessFactors to integrate with the external systems . OData is built on HTTP at its core and the OData API is based on REST architecture.
 
@@ -42,20 +44,20 @@ It is a powerful BizTalk Adapter that allow you to easily connect BizTalk Server
 #### Activities for all interfaces involving Sf if above design choice of Odata Integration and availability of the stated Odata Adpter is there (one time):
 1. Connectivity Setup and Check from Biztalk - 5 days 
 
-## For the source and Targets - Oracle Service Cloud:
-### Setting up of Two-way WCF-WebHttp Send Port from Biztalk for interacting with the Oracle Service Cloud Rest Interface
+### For the source and Targets - Oracle Service Cloud:
+#### Setting up of Two-way WCF-WebHttp Send Port from Biztalk for interacting with the Oracle Service Cloud Rest Interface
 
-### Connectivity Requirements: 
+#### Connectivity Requirements: 
 Connect REST API allows customers and partners to integrate with the Oracle Service Cloud platform using representational state transfer (REST) web services. Connect REST API is a public API that leverages the Connect Common Object Model version 1.4.
 
 #### Activities for all interfaces involving Oracle Service Cloud (one time):
 1. Connectivity Setup and Check from Biztalk - 5 days 
 
-## For the Source and Targets - Oracle Service Cloud:
+### For the Source and Targets - Oracle EBS:
 
 The following key facets for connectivity would be required for Biztalk interacting with OFS especially staging and interface tables:
-### Binding Properties for Setting Application Context For Various Artifacts
-### BizTalk Adapter for Oracle E-Business Suite binding properties
+#### Binding Properties for Setting Application Context For Various Artifacts
+#### BizTalk Adapter for Oracle E-Business Suite binding properties
 
 Besides the above which would set the integrations in place and the components are required.
 
