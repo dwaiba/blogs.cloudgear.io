@@ -11,24 +11,15 @@ It makes use of a variety of open source projects including inception and contri
 
 * [docker](https://github.com/docker/docker)
 * [Kubernetes](https://github.com/kubernetes/kubernetes)
-* [Cloud provider automation](https://github.com/cloudgear-io/azure-bigcompute)
+* [Azure HPC Clusters with Intel MPI as well as GPU Clusters automation](https://cloudgear-io.github.com/azure-bigcompute) - Cloudgear Maintained
 * [nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
-* [GKE automations](https://github.com/cloudgear-io/gke-terraform)
-* [AKS automations](https://github.com/dwaiba/aks-terraform)
-* [Dataproc automations](https://github.com/cloudgear-io/gke-terraform/tree/master/dataproc)
-* [GCP automations](https://github.com/dwaiba/gcp-terraform)
-* [AWS automations](https://github.com/dwaiba/aws-terraform)
-* [Ansible automations](https://github.com/dwaiba/oracle)
+* [GKE automations](https://cloudgear-io.github.com/gke-terraform) - Cloudgear Maintained
+* [AKS automations with GPU Usage with Kubernetes](https://dwaiba.github.com/aks-terraform)  - dwaiba/Cloudgear Maintained
+* [Dataproc automations](https://github.com/dwaiba/dataproc-terraform) - dwaiba/Cloudgear Maintained
+* [GCP automations](https://dwaiba.github.io/gcp-terraform) - dwaiba/Cloudgear Maintained
+* [AWS automations](https://dwaiba.github.io/aws-terraform)- dwaiba/Cloudgear Maintained
+* [Ansible automations](https://dwaiba.github.io/oracle)- dwaiba/Cloudgear Maintained
 * [API Management auto discovery and automations](https://github.com/apigee/istio-mixer-adapter)
 
-Learn more and contribute on [GitHub](https://github.com/cloudgear-io/azure-bigcompute).
 
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/cloudgear-io/azure-bigcompute/issues/new) or [ask on Twitter](https://twitter.com/cloudgeario).
-
-Thanks for reading!
-
-### nvidia-docker
-nvidia-docker are leveraged for usage of dockerized CUDA Toolkit Usage . This opens up possibilities of using “py” and “gpu” tagged images of cntk, tensorflow, theano and more available as nightly builds from docker hub with jupyter notebooks. Latest gitlab.com/nvidia cudnn RCs can be used for testing.
-
-
+Thanks for trying!
