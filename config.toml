@@ -2,7 +2,7 @@ baseurl = "http://blogs.cloudgear.io"
 languageCode = "en"
 title = "cloudgear.io | Blogs"
 theme = "kiss"
-copyright = "&copy; <a href=\"http://cloudgear.io\">cloudgear.io</a> 2018"
+copyright = "&copy; <a href=\"http://cloudgear.io\">cloudgear.io</a> 2020"
 #disqusShortname = "shortname"
 googleAnalytics = ""
 # Number of posts per page
