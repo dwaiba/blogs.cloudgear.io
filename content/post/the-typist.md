@@ -4,9 +4,6 @@ date: 2020-04-15T18:21:55+01:00
 draft: false
 ---
 
-
-#### The Typist.
-
 He stood on the pavement watching her walk inside the bank.
 
 Calcutta is not cold in January but he kept pulling his sleeves over his fingers to cut out the chill that he felt more out of habit than necessity.The party crowd was breaking out for their weekly pub hopping,ecstatic shrieks and giggles reeked of well being and money to be spent on mindless beer guzzling ....or so he thought. He could have done with a warm chair and a glass of cheap rum himself. 

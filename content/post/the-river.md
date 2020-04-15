@@ -4,9 +4,6 @@ date: 2020-04-15T18:18:55+01:00
 draft: false
 ---
 
-
-#### The River.
-
 Aditya or Adi as he is known among his friends or past friends, always had energy. Not the frivolous energy of a romantic twenty something but the bull strength and tenacity of a prize fighter. He was a decent young man, controlled , intelligent , shabby in a way the sikkimese girls would love.Post college , he had to quit his first job after he lost his temper over some trivialty,though a good student, he never liked the desk job and would have made an excellent manager with a fat pay cheque at any of the fat american firms dotting the city, if not for his problem with authority and very rare but violent fits of temper.Out of work and his savings from the first job slowly declining, Adi was fast searching for a new venture.A trip to the mountains refreshed him and instilled in him the fire to do something,he knew not what and youth never knows.
 
 Smoking was his favourite thing, and he was a patient reader. Good films, noir ,oneiric ..he doted on them, stemming from his over experimentation with ganja from the college days.He still smoked the occasional joint but the last year had inculcated a strange mix of cheap spiritualism that a chillum and splatter of shiv lingas on the riverbank can instill in any dreamy, sensitive and pseudo-teenage-angst-ridden soul. 
