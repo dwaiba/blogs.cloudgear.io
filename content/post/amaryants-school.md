@@ -1,7 +1,7 @@
 ---
 title: "Amaryant's school"
 date: 2020-11-21T14:34:55+01:00
-draft: true
+draft: false
 ---
 
 
